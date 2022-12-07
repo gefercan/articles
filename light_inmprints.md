@@ -27,4 +27,4 @@ Notes
 
 3) https://elmontonero.pe/columnas/la-republica-aristocratica
 
-4)https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=4929&context=masters_theses
+4) https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=4929&context=masters_theses
