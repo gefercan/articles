@@ -1,17 +1,10 @@
- 800 words max.
+ ##800 words max.
 
  Published on January 16, 2022
 
-Edit article
 
-    View stats
+by: German Fernandez Cantos
 
-credit: German Fernandez Cantos
-credit: German Fernandez Cantos
-german fernandez
-german fernandez
-Art and information design
-54 articles
 
 1
 
