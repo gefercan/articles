@@ -1,4 +1,8 @@
 
+The world's worst architect
+
+by german fernandez. Published in 2021
+
 Well, let's start with, well, the very end. In the end, we find out, it was the joke, the laughter, the comedy. Because we find Alternatino, from “alternative” and “Latino” (just in case), a series of comical videos premiered by the cable channel Comedy Central. And specifically one episode. A short video-sketch titled " The world's worst architect", which present us with a genius of a fictitious name, titled "Gerard Fjuck, architect"(link below). 
 
 He is, to our amusement but also obviously, one-of-a-kind artist, an example of a type of revered figure we know well in the contemporary world: the starchitect, the latest incarnation of the branded genius, an "author", a creator blessed by the uniqueness of his creations. Because, as we see from the very beginning, being praised by friends and foes alike, Gerard Fjuck is admired, venerated and followed by fans and spectators with passionate admiration. He is an impassioned man with a unique vision, the uncompromising prophet of a personal conviction. 
