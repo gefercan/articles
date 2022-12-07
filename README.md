@@ -2,7 +2,7 @@
 
 Different texts I wrote about topics that interest me.
 
-Copyright (c) 2022 gefercan
+Copyright (c) 2015-2022 german fernandez. All rights reserved.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the content(the articles).
