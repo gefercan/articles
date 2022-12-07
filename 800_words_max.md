@@ -1,4 +1,4 @@
- ##800 words max.
+800 words max.
 
  Published on January 16, 2022
 
