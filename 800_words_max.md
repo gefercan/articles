@@ -73,10 +73,13 @@ What holds you together is your (never static) point of view.
 
 Notes
 
-1)Yoran, Gabriel. Applied metaphysics: Objects in object oriented ontology and object oriented programming. Interface Critique Journal. 2018.
+1)Yoran, Gabriel. Applied metaphysics: Objects in object oriented ontology and object oriented programming. 
+Interface Critique Journal. 2018.
 
-2) Kerr, Dylan. What is Object-Oriened-Ontology? in: Artspace Magazine. April,2016.
+2)Kerr, Dylan. What is Object-Oriened-Ontology? in: Artspace Magazine. April,2016.
 
-3)Cole, Andrew. Those obscure objects of desire: Use and abuse of object oriented onthology and speculative realism. Artforum magazine. Summer 2015.
+3)Cole, Andrew. Those obscure objects of desire: Use and abuse of object oriented onthology and speculative realism. 
+Artforum magazine. Summer 2015.
 
-4) Borges, Jorge Luis. La Loteria en Babilonia. En: Ficciones, editorial Alianza editorial, 1996. Originally published by editorial Emece in 1944.
+4)Borges, Jorge Luis. La Loteria en Babilonia. En: Ficciones, editorial Alianza editorial, 1996. Originally 
+published by editorial Emece in 1944.
