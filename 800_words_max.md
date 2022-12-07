@@ -1,9 +1,9 @@
 800 words max.
 
- Published on January 16, 2022
 
 
-by: German Fernandez Cantos
+
+by: German Fernandez Cantos.  Published on January 16, 2022
 
 
 1
