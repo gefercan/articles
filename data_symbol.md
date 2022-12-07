@@ -1,8 +1,8 @@
  Data and Symbol
 
- Published on March 23, 2019
+ 
 
-german fernandez
+by german fernandez. Published on March 23, 2019
 
 
 
@@ -33,10 +33,5 @@ While the idea of the totemic data is something plausible, the way in which this
 The answer for those questions will be still talking about data-symbols made for our perception, for our senses, suitable to us. Since we started this text referencing Borges, it is right, for this very same reason, to ask, what if we stretch a little more our questions? Our reasoning up to here has been made on things we already more or less know, making assumptions we can envisage. probably when AI arrives at making art, past through the necessary stage of mimesis, it won't be something we understand and probably won't even have that name.
 
 After all, what is art? And based on that definition, what a Generative Adversarial Network, to name a thing, for example, will call art? For sure not a painting, nor a sculpture, not a song, if it is not to betray its very essence. Probably since there are parts of a machine though we cannot understand, probably their art will be incomprehensible to us. Will be strange artful blips in the night or playful lines of unintelligible philosophical code? Will be a performance not destined to us, will it be a humongous perpetual metadata query to be shared only among systems of meta-systems, an incomprehensible flow of algorithms undetectable to us? Que sera, sera? What, art, in the era of AI and Deep learning, will be?
-Published by
-german fernandez
-german fernandez
-Art and information design
-Published • 3y
-54 articles
+
 
